@@ -130,3 +130,6 @@ dmypy.json
 
 # Cette saleté de DS_Store
 .DS_Store
+
+# Les csv sont trop lourds pour git
+*.csv
